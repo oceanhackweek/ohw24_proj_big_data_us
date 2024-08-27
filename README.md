@@ -1,8 +1,4 @@
-# ohwyy_proj_template_cc
-
-Template for starting Oceanhackweek project repos. Add country code (cc) in the end to indicate the location of your event (us/au).
-
-This repo is an example of how teams can structure their project repositories and format their project README.md file, but feel free to adapt as suits your needs.
+# ohw24_proj_big_data_us
 
 **Folder Structure**
 
@@ -18,22 +14,21 @@ preserve relative paths, but the dataset does not need to be added to git/GitHub
 You can start with a simple structure and as you progress you can refine it to contain more components. [Here](https://cookiecutter-data-science.drivendata.org/#directory-structure) is an example of a more elaborate structure for a data science project.
 
 ## Project Name
-
+Big data parallel computing 
 ## One-line Description
-
+In this project, we try to compute the project using all cores. In this regard, we use parallel computing.
 ## Planning
-
+Using public OOI DAS data from Oregon shore region.
+Using Dask package.
 ## Collaborators
 
 | Name                | Location   | Role                |
 |---------------------|------------|---------------------|
-| Participant 1       | Virtual    | Project Facilitator |
-| Participant 2       | Bigelow    | Participant         |
-| Participant 3       | Bigelow    | Participant         |
+| Erfan B. Horeh      | Bigelow    | Project Facilitator |
 
 ## Planning
 
-* Initial idea: "short description"
+* Initial idea: "Parallel computing using all cores in the system"
 * Ideation jam board: Add link
 * Ideation Presentation: Add link
 * Slack channel: ohw24_proj_name
